@@ -1,0 +1,12 @@
+bin/
+build/
+build.xml
+
+nbproject/
+manifest.mf
+
+*.project
+*.classpath
+
+DesignBytes*
+*.sdb2
